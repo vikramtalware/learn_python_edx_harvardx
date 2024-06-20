@@ -34,7 +34,7 @@
             </tr>
             <tr>
                 <td>Conditionals</td>
-                <td>Problem Set 1</td>
+                <td><a href="https://github.com/vikramtalware/learn_python_edx_harvardx/tree/main/Problem%20Set%201">Problem Set 1</a></td>
                 <td>
                     <ol>
                         <li>bank</li>
@@ -47,7 +47,7 @@
             </tr>
             <tr>
                 <td>Loops</td>
-                <td>Problem Set 2</td>
+                <td><a href="https://github.com/vikramtalware/learn_python_edx_harvardx/tree/main/Problem%20Set%202">Problem Set 2</a></td>
                 <td>
                     <ol>
                         <li>camel</li>
