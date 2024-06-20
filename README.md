@@ -21,7 +21,8 @@
         <tbody>
             <tr>
                 <td>Functions, Variables</td>
-                <td>[Problem Set 0](https://github.com/vikramtalware/learn_python_edx_harvardx/tree/main/Problem%20Set%200)</td>
+                <td>
+                <a href="https://github.com/vikramtalware/learn_python_edx_harvardx/tree/main/Problem%20Set%200">Problem Set 0</a></td>
                 <td>
                     <ol>
                         <li>einstein</li>
