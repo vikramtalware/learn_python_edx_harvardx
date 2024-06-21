@@ -60,7 +60,7 @@
             </tr>
             <tr>
                 <td>Exceptions</td>
-                <td>Problem Set 3</td>
+                <td><a href="https://github.com/vikramtalware/learn_python_edx_harvardx/tree/main/Problem%20Set%203">Problem Set 3</a></td>
                 <td>
                     <ol>
                         <li>fuel</li>
@@ -72,7 +72,7 @@
             </tr>
             <tr>
                 <td>Libraries</td>
-                <td>Problem Set 4</td>
+                <td><a href="https://github.com/vikramtalware/learn_python_edx_harvardx/tree/main/Problem%20Set%204">Problem Set 4</a></td>
                 <td>
                     <ol>
                         <li>adieu</li>
@@ -86,7 +86,7 @@
             </tr>
             <tr>
                 <td>Unit Tests</td>
-                <td>Problem Set 5</td>
+                <td><a href="https://github.com/vikramtalware/learn_python_edx_harvardx/tree/main/Problem%20Set%205">Problem Set 5</a></td>
                 <td>
                     <ol>
                         <li>test_bank</li>
@@ -98,7 +98,7 @@
             </tr>
             <tr>
                 <td>File I/O</td>
-                <td>Problem Set 6</td>
+                <td><a href="https://github.com/vikramtalware/learn_python_edx_harvardx/tree/main/Problem%20Set%206">Problem Set 6</a></td>
                 <td>
                     <ol>
                         <li>lines</li>
@@ -110,7 +110,7 @@
             </tr>
             <tr>
                 <td>Regular Expressions</td>
-                <td>Problem Set 7</td>
+                <td><a href="https://github.com/vikramtalware/learn_python_edx_harvardx/tree/main/Problem%20Set%207">Problem Set 7</a></td>
                 <td>
                     <ol>
                         <li>numb3rs</li>
@@ -123,7 +123,7 @@
             </tr>
             <tr>
                 <td>Object-Oriented Programming</td>
-                <td>Problem Set 8</td>
+                <td><a href="https://github.com/vikramtalware/learn_python_edx_harvardx/tree/main/Problem%20Set%208">Problem Set 8</a></td>
                 <td>
                     <ol>
                         <li>jar</li>
